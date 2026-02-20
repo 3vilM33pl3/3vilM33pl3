@@ -23,7 +23,7 @@
 - 🍲 **[Recipes](https://github.com/3vilM33pl3/recipes)** - Recipe platform with backend + frontend plus deployment automation.
 - 📱 **[Recipes App iOS](https://github.com/3vilM33pl3/recipes-ios)** - Native iOS client for browsing and managing recipe content.
 - 🦀 **[VS Code Rust Test Adapter](https://github.com/3vilM33pl3/vscode-rust-test-adapter)** - Fork of the original. This version navigates to the test location if you click on the test and shows the output of failed tests
-- 🪾 **[Varnish HTTP cache plugin](https://github.com/3vilM33pl3/varnish-urlsort)** - [Varnish / Vinyl ](https://vinyl-cache.org/)cache plugin to sort variables in a url to increase cache hits. Uses a binary tree.  
+- 🪾 **[Varnish HTTP cache plugin](https://github.com/3vilM33pl3/varnish-urlsort)** - [Varnish / Vinyl ](https://vinyl-cache.org/) plugin to sort variables in a url to increase cache hits. Uses a binary tree.  
  
 
 ### SCTP - My favorite network protocol - [RFC9260](https://datatracker.ietf.org/doc/html/rfc9260)
