@@ -29,7 +29,7 @@
 ### SCTP - My favorite network protocol - [RFC9260](https://datatracker.ietf.org/doc/html/rfc9260)
 I think SCTP should be treated as a first class citizen just like TCP and UDP. In the following projects I have  added SCTP to the runtime / standard library in the same way TCP and UDP are implemented. Experimental and proof of concepts. 
 - **[SCTP in Go on FreeBSD](https://github.com/3vilM33pl3/go-sctp)** - This project is part of my Masters Thesis and presented at the BSD conferences in Asia, Europe and Canada in 2012 and 2013.
-- **[SCTP in Go on Linux](https://github.com/3vilM33pl3/go-sctp-linux)** - Revisiting my old SCTP in Go project, done with the power of LLMs(!), now with the latest version of Go on Linux
+- **[SCTP in Go on Linux](https://github.com/3vilM33pl3/go-sctp-linux)** - Revisiting my old SCTP in Go project, now with the latest version of Go on Linux, done with the power of LLMs(!)
 - **[SCTP in Rust on Linux](https://github.com/3vilM33pl3/rust-sctp)** - SCTP in Rust as a first class citizen like TCP and UDP? Yes we can! 
 
 ### Other
