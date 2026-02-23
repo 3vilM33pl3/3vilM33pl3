@@ -1,6 +1,6 @@
 # Olivier's Github 🎉
 
-🇬🇧 **London** | 🧰 **Homelab + Product Builder** | 🚀 **Agentic Engineer**
+🇬🇧 **London** | 🧰 **Inventor + Product Builder** | 🚀 **Agentic Engineer**
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
