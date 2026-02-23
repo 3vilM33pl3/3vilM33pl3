@@ -1,4 +1,4 @@
-# Olivier's Github 💽
+# Olivier's Github 🎉
 
 🇬🇧 **London** | 🧰 **Homelab + Product Builder** | 🚀 **Agentic Engineer**
 
