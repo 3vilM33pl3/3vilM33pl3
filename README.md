@@ -17,7 +17,6 @@
 
 ## Current Projects
 ### General
-- 🪟 **[tmux](https://github.com/3vilM33pl3/tmux)** - fork of tmux, now with one-key big labels so you always know where you are. (Similar to 'Show a clock') 
 - 🪣 **[Buckets version control system](https://github.com/3vilM33pl3/buckets)** - A version control tool for game asset and expectation management.
 - 📺 **[RaspberryPi 5 Info Display](https://github.com/3vilM33pl3/raspi-info-display)** - Rust-powered display app for status and metrics on Raspberry Pi devices.
 - ☁️ **[AWS SDK Unreal Engine plugin](https://github.com/3vilM33pl3/AWSSDKUnrealEngine)** - This is the AWS C++ SDK statically linked with Unreal Engine 5.
@@ -26,6 +25,7 @@
 - 🦀 **[VS Code Rust Test Adapter](https://github.com/3vilM33pl3/vscode-rust-test-adapter)** - Fork of the original. This version navigates to the test location if you click on the test and shows the output of failed tests
 - 🪾 **[Varnish HTTP cache plugin](https://github.com/3vilM33pl3/varnish-urlsort)** - [Varnish / Vinyl ](https://vinyl-cache.org/) plugin to sort variables in a url to increase cache hits. Uses a binary tree.  
 - 📸 **[Godox AR400 Cross-Polarizer Mount](https://github.com/3vilM33pl3/ar400-cross-polarizer-mount)** 3d print files for polarizing filter holder for the Godox AR400 flash (useful for photogrammetry) 
+- 🪟 **[tmux](https://github.com/3vilM33pl3/tmux)** - fork of tmux, now with one-key big labels so you always know where you are. (Similar to 'Show a clock')
 
 ### SCTP - My favorite network protocol - [RFC9260](https://datatracker.ietf.org/doc/html/rfc9260)
 I think SCTP should be treated as a first class citizen just like TCP and UDP. In the following projects I have  added SCTP to the runtime / standard library in the same way TCP and UDP are implemented. Experimental and proof of concepts. 
