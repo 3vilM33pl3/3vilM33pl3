@@ -23,9 +23,9 @@
 - ☁️ **[AWS SDK Unreal Engine plugin](https://github.com/3vilM33pl3/AWSSDKUnrealEngine)** - This is the AWS C++ SDK statically linked with Unreal Engine 5.
 - 🍲 **[Recipes](https://github.com/3vilM33pl3/recipes)** - Recipe platform with backend + frontend plus deployment automation.
 - 📱 **[Recipes App iOS](https://github.com/3vilM33pl3/recipes-ios)** - Native iOS client for browsing and managing recipe content.
-- 🦀 **[VS Code Rust Test Adapter](https://github.com/3vilM33pl3/vscode-rust-test-adapter)** - Fork of the original. This version navigates to the test location if you click on the test and shows the output of failed tests
-- 🪾 **[Varnish HTTP cache plugin](https://github.com/3vilM33pl3/varnish-urlsort)** - [Varnish / Vinyl ](https://vinyl-cache.org/) a zero copy sorting plugin for variables in a url to increase cache hits. Uses a binary tree.  
-- 📸 **[Godox AR400 Cross-Polarizer Mount](https://github.com/3vilM33pl3/ar400-cross-polarizer-mount)** 3d print files for polarizing filter holder for the Godox AR400 flash (useful for photogrammetry) 
+- 🦀 **[VS Code Rust Test Adapter](https://github.com/3vilM33pl3/vscode-rust-test-adapter)** - Fork of the original + navigates to the test location and shows the output of failed tests
+- 🪾 **[Varnish HTTP cache plugin](https://github.com/3vilM33pl3/varnish-urlsort)** - [Varnish / Vinyl ](https://vinyl-cache.org/) a zero copy sorting plugin for variables in a url to increase cache hits
+- 📸 **[Godox AR400 Cross-Polarizer Mount](https://github.com/3vilM33pl3/ar400-cross-polarizer-mount)** 3d print files for polarizing filter holder for the Godox AR400 flash 
 - 🪟 **[tmux](https://github.com/3vilM33pl3/tmux)** - fork of tmux, now with one-key big labels so you always know where you are. (Similar to 'Show a clock')
 
 ### SCTP - My favorite network protocol - [RFC9260](https://datatracker.ietf.org/doc/html/rfc9260)
