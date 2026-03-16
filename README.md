@@ -15,7 +15,7 @@
 
 > I build practical software and infrastructure that is reliable, secure, observable, and easy to operate.
 
-## Current Projects
+## My Projects
 ### General
 - 🧠 **[Memory](https://github.com/3vilM33pl3/memory)** - Memory Layer is a local-first memory system for coding agents and the humans working with them
 - 🪣 **[Buckets version control system](https://github.com/3vilM33pl3/buckets)** - A version control tool for game asset and expectation management.
