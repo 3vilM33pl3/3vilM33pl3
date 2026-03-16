@@ -17,6 +17,7 @@
 
 ## Current Projects
 ### General
+- 🧠 **[Memory](https://github.com/3vilM33pl3/memory)** - Memory Layer is a local-first memory system for coding agents and the humans working with them
 - 🪣 **[Buckets version control system](https://github.com/3vilM33pl3/buckets)** - A version control tool for game asset and expectation management.
 - 📺 **[RaspberryPi 5 Info Display](https://github.com/3vilM33pl3/raspi-info-display)** - Rust-powered display app for status and metrics on Raspberry Pi devices.
 - ☁️ **[AWS SDK Unreal Engine plugin](https://github.com/3vilM33pl3/AWSSDKUnrealEngine)** - This is the AWS C++ SDK statically linked with Unreal Engine 5.
