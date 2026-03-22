@@ -20,7 +20,8 @@
 - 🧠 **[Memory](https://github.com/3vilM33pl3/memory)** - My own local-first memory system for coding agents
 - 🪣 **[Buckets version control system](https://github.com/3vilM33pl3/buckets)** - A version control tool for game asset and expectation management.
 - 📺 **[RaspberryPi 5 Info Display](https://github.com/3vilM33pl3/raspi-info-display)** - Rust-powered display app for status and metrics on Raspberry Pi devices.
-- ☁️ **[AWS SDK Unreal Engine plugin](https://github.com/3vilM33pl3/AWSSDKUnrealEngine)** - This is the AWS C++ SDK statically linked with Unreal Engine 5.
+- ☎️ **[Soundmind](https://github.com/3vilM33pl3/soundmind)** Desktop meeting assistant for transcribing system audio and give help during video calls
+- ☁️ **[AWS SDK Unreal Engine plugin](https://github.com/3vilM33pl3/AWSSDKUnrealEngine)** - This is the AWS C++ SDK statically linked with Unreal Engine 5
 - 🍲 **[Recipes](https://github.com/3vilM33pl3/recipes)** - Recipe platform with backend + frontend plus deployment automation.
 - 📱 **[Recipes App iOS](https://github.com/3vilM33pl3/recipes-ios)** - Native iOS client for browsing and managing recipe content.
 - 🦀 **[VS Code Rust Test Adapter](https://github.com/3vilM33pl3/vscode-rust-test-adapter)** - Fork of the original + navigates to the test location and shows the output of failed tests
