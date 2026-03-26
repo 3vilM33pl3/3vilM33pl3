@@ -32,7 +32,7 @@
 - 🎲 **[Random Web](https://github.com/3vilM33pl3/random-web)** - Small web service for secure random generation and visualization.
 - 🖨️ **[3D printing models](https://github.com/3vilM33pl3/3DPrinting)** - OpenSCAD models for 3D printing.
 -    
- ### Acrhived
+ ### Archived
 - ☁️ **[AWS SDK Unreal Engine plugin](https://github.com/3vilM33pl3/AWSSDKUnrealEngine)** - This is the AWS C++ SDK statically linked with Unreal Engine 5
 - 🦀 **[VS Code Rust Test Adapter](https://github.com/3vilM33pl3/vscode-rust-test-adapter)** - Fork of the original + navigates to the test location and shows the output of failed tests
 - 🪾 **[Varnish HTTP cache plugin](https://github.com/3vilM33pl3/varnish-urlsort)** - [Varnish / Vinyl ](https://vinyl-cache.org/) a zero copy sorting plugin for variables in a url to increase cache hits
