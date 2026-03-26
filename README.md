@@ -29,9 +29,9 @@
 - 📱 **[Recipes App iOS](https://github.com/3vilM33pl3/recipes-ios)** - Native iOS client for browsing and managing recipe content
 - 📸 **[Godox AR400 Cross-Polarizer Mount](https://github.com/3vilM33pl3/ar400-cross-polarizer-mount)** 3d print files for polarizing filter holder for the Godox AR400 flash
 - 🪟 **[tmux](https://github.com/3vilM33pl3/tmux)** - fork of tmux, now with one-key big labels so you always know where you are. (Similar to 'Show a clock')
-- 🎲 **[Random Web](https://github.com/3vilM33pl3/random-web)** - Small web service for secure random generation and visualization.
-- 🖨️ **[3D printing models](https://github.com/3vilM33pl3/3DPrinting)** - OpenSCAD models for 3D printing.
--    
+- 🎲 **[Random Web](https://github.com/3vilM33pl3/random-web)** - Small web service for secure random generation and visualization
+- 🖨️ **[3D printing models](https://github.com/3vilM33pl3/3DPrinting)** - OpenSCAD models for 3D printing
+    
  ### Archived
 - ☁️ **[AWS SDK Unreal Engine plugin](https://github.com/3vilM33pl3/AWSSDKUnrealEngine)** - This is the AWS C++ SDK statically linked with Unreal Engine 5
 - 🦀 **[VS Code Rust Test Adapter](https://github.com/3vilM33pl3/vscode-rust-test-adapter)** - Fork of the original + navigates to the test location and shows the output of failed tests
