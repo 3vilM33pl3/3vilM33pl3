@@ -17,6 +17,7 @@
 
 ## My Projects
 ### In active development
+- 🧪 **[SCTP Conformance Suite](https://github.com/3vilM33pl3/sctp-conformance)** - SCTP test suite designed for coding agents
 - 🧠 **[Memory](https://github.com/3vilM33pl3/memory)** - My own distributed memory system for coding agents
 - 🪣 **[Buckets version control system](https://github.com/3vilM33pl3/buckets)** - A version control tool for game asset and expectation management.
 - ☎️ **[Soundmind](https://github.com/3vilM33pl3/soundmind)** Desktop meeting assistant for transcribing system audio and give help during video calls
