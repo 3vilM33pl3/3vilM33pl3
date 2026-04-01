@@ -57,6 +57,8 @@ I think SCTP should be treated as a first class citizen just like TCP and UDP. I
 - Contributor [ICLR 2023 ](https://openreview.net/forum?id=Q120_4COf-K) paper: Synthetic Data Generation of Many-to-Many Datasets via Random Graph Generation 
 
 ## What I'm Doing
+- ☎️ Building an [SCTP](https://datatracker.ietf.org/doc/html/rfc9260) test suite to test my addtion of SCTP functionality
+to the [Go](https://go.dev/) and [Rust](https://rust-lang.org/) runtimes 
 - 🧠 Building an open source distributed memory system for (coding) LLMs
 - ⚙️ Building a reliable zero trust homelab 
 - 🔐 Running my own Certificate Authority 
