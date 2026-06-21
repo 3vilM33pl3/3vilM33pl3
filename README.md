@@ -19,12 +19,9 @@
 ### In active development
 - 🧠 **[Memory](https://github.com/3vilM33pl3/memory)** - My own distributed memory system for coding agents (RAG, BM25, Knowledge Graph, Code Graph)
 - 🧪 **[SCTP Conformance Suite](https://github.com/3vilM33pl3/sctp-conformance)** - SCTP test suite designed for coding agents
-- 🪣 **[Buckets version control system](https://github.com/3vilM33pl3/buckets)** - A version control tool for game asset and expectation management.
-- ☎️ **[Soundmind](https://github.com/3vilM33pl3/soundmind)** Desktop meeting assistant for transcribing system audio and give help during video calls
-- 💦 **[Homelab Public](https://github.com/3vilM33pl3/homelab-public)** - Sanitized version of my Homelab setup
-- 🕹️ **[Canal Game](https://github.com/3vilM33pl3/UEGame)** - Unreal Engine game for my Steamdeck (early stage)
 
 ### 'Finished' and in use
+- 🪣 **[Buckets version control system](https://github.com/3vilM33pl3/buckets)** - A version control tool for game asset and expectation management.
 - 📺 **[RaspberryPi 5 Info Display](https://github.com/3vilM33pl3/raspi-info-display)** - Rust-powered display app for status and metrics on Raspberry Pi devices.
 - 🍲 **[Recipes](https://github.com/3vilM33pl3/recipes)** - Recipe platform with backend + frontend plus deployment automation.
 - 📱 **[Recipes App iOS](https://github.com/3vilM33pl3/recipes-ios)** - Native iOS client for browsing and managing recipe content
