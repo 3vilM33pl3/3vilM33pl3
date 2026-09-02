@@ -29,6 +29,7 @@
 - 🪟 **[tmux](https://github.com/3vilM33pl3/tmux)** - fork of tmux, now with one-key big labels so you always know where you are. (Similar to 'Show a clock')
 - 🎲 **[Random Web](https://github.com/3vilM33pl3/random-web)** - Small web service for secure random generation and visualization
 - 🖨️ **[3D printing models](https://github.com/3vilM33pl3/3DPrinting)** - OpenSCAD models for 3D printing
+- 🖥️ **[10-inch rack OLED panel](https://github.com/3vilM33pl3/10-inch-rack-oled-prints)** - 3D-printable 1U panel for four status displays in a 10-inch rack.
     
  ### Archived
 - ☁️ **[AWS SDK Unreal Engine plugin](https://github.com/3vilM33pl3/AWSSDKUnrealEngine)** - This is the AWS C++ SDK statically linked with Unreal Engine 5
