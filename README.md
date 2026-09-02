@@ -27,7 +27,6 @@
 - 📱 **[Recipes App iOS](https://github.com/3vilM33pl3/recipes-ios)** - Native iOS client for browsing and managing recipe content
 - 📸 **[Godox AR400 Cross-Polarizer Mount](https://github.com/3vilM33pl3/ar400-cross-polarizer-mount)** 3d print files for polarizing filter holder for the Godox AR400 flash
 - 🪟 **[tmux](https://github.com/3vilM33pl3/tmux)** - fork of tmux, now with one-key big labels so you always know where you are. (Similar to 'Show a clock')
-- 🎲 **[Random Web](https://github.com/3vilM33pl3/random-web)** - Small web service for secure random generation and visualization
 - 🖥️ **[10-inch rack OLED panel](https://github.com/3vilM33pl3/10-inch-rack-oled-prints)** - 3D-printable 1U panel for four status displays in a 10-inch rack.
     
  ### Archived
