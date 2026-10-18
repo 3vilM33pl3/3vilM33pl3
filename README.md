@@ -17,7 +17,7 @@
 
 ## My Projects
 ### In active development
-- 🧠 **[Memory](https://github.com/3vilM33pl3/memory)** - My own distributed memory system for coding agents (RAG, BM25, Knowledge Graph, Code Graph)
+- 🧠 **[Codifix](https://github.com/3vilM33pl3/codifix)** - Durable project knowledge for coding agents and developers, with cited retrieval, knowledge areas, private sharing, and offline access.
 - 🧪 **[SCTP Conformance Suite](https://github.com/3vilM33pl3/sctp-conformance)** - SCTP test suite designed for coding agents
 
 ### 'Finished' and in use
@@ -55,7 +55,7 @@ I think SCTP should be treated as a first class citizen just like TCP and UDP. I
 ## What I'm Doing
 - ☎️ Building an [SCTP](https://datatracker.ietf.org/doc/html/rfc9260) test suite to test my addtion of SCTP functionality
 to the [Go](https://go.dev/) and [Rust](https://rust-lang.org/) runtimes 
-- 🧠 Building an open source distributed memory system for (coding) LLMs
+- 🧠 Building [Codifix](https://github.com/3vilM33pl3/codifix), an open-source project knowledge system for coding agents and developers
 - ⚙️ Building a reliable zero trust homelab 
 - 🔐 Running my own Certificate Authority 
 - 🕹️ Indie game development
